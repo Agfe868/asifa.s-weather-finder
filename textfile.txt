@@ -1,0 +1,8 @@
+------------------------------------------------------------- 
+ Weather Stats for - CHENNAI  || 28 Jul 2021 | 07:41:17 AM
+ ------------------------------------------------------------- 
+Current temperature is: 34.99 deg C
+Current weather desc  :,scattered clouds 
+Current Humidity      :,49,% 
+Current wind speed    :,5.14,kmph 
+====================================================
